@@ -24,17 +24,17 @@ post_limit: 5
 title : Helium Jekyll
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : IT's Mings blog
+  #site: https://lantoniotrento.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
-  image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
+  #image : social-image.png
+  #email : lantoniotrento@gmail.com
+  #github : antoniotrento
   #twitter : lantoniotrento
   #facebook: lantoniotrento
   #linkedin: antoniotrento
   #instagram: lantoniotrento
-  pinterest: antoniotrento
+  #pinterest: antoniotrento
   feedburner : 
 
 twitter_username: lantoniotrento
